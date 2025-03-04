@@ -1,0 +1,20 @@
+{
+    "PlaceAndImg":[
+        {
+        "name":"Paris",
+       "img":{"uri":"https://th.bing.com/th/id/R.821163c68c86890ac91b1f16c474e3b6?rik=ImpiCVGbfmG0yQ&riu=http%3a%2f%2feskipaper.com%2fimages%2fparis-tourist-attractions-1.jpg&ehk=ogttpm6Z6e4b8FjbE1H6H3NlL22RmPHaz%2bAHmFQCWsM%3d&risl=&pid=ImgRaw&r=0"}
+      },
+      {
+        "name":"New york",
+       "img":{"uri":"https://media.tacdn.com/media/attractions-splice-spp-674x446/12/6d/e0/80.jpg"}
+      },
+      {
+        "name":"Tokyo",
+       "img":{"uri":"https://th.bing.com/th/id/OIP.iWbsyRaihgk_DtkfVEtMTQHaEc?w=1200&h=720&rs=1&pid=ImgDetMain"}
+      },
+      {
+        "name":"London",
+       "img":{"uri":"https://franks-travelbox.com/wp-content/uploads/2020/06/grossbritannien-london-die-tower-bridge-wurde-1894-erocc88ffnet-und-ist-die-wohl-bekannteste-brucc88cke-londons-und-eine-der-schocc88nsten-der-welt-simon-lukas-shutterstock.jpg"}
+      }
+    ]
+}

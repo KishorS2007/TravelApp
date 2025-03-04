@@ -1,0 +1,7 @@
+{
+    "Trip" : [
+        {"Title":"Popular Destinations","data":["Bali","Santorini","Maldives","Venice"]},
+        {"Title":"Adventure Trips","data":["Hiking in Alps","Safari in Kenya","Diving in Great Barrier Reef"]},
+        {"Title":"Cultural Experiences","data":["Kyoto Temples","Marrakech Medina","Angkor Wat"]}
+      ]
+}
